@@ -210,4 +210,4 @@ This prop expects a key-value object containing props that are passed into each 
 ...
 ```
 
-**Kindly raise any issues noticed on the github repo at https://github.com/pauluzo/react-materialui-tag-input or email me at okaforpaul26@gmail.com**
+**Kindly raise any issues noticed on the github repo at https://github.com/pauluzo/react-materialui-tag-input/issues or email me at okaforpaul26@gmail.com**
