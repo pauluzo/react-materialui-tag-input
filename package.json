@@ -1,7 +1,7 @@
 {
   "name": "react-materialui-tag-input",
   "version": "1.0.0",
-  "description": "",
+  "description": "This is a react material-ui input component for entering multiple string values called tags. Lightweight, customizable and easy to use.",
   "main": "dist/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -11,9 +11,23 @@
   "files": [
     "dist"
   ],
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pauluzo/react-materialui-tag-input"
+  },
+  "keywords": [
+    "tags",
+    "taginput",
+    "materialui",
+    "react-tag-input",
+    "multi-input"
+  ],
+  "author": "Paul Okafor",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pauluzo/react-materialui-tag-input/issues"
+  },
+  "homepage": "https://github.com/pauluzo/react-materialui-tag-input#readme",
   "devDependencies": {
     "@types/react": "^18.2.17",
     "@types/react-dom": "^18.2.7",
