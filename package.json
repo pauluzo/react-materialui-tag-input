@@ -1,7 +1,7 @@
 {
   "name": "react-materialui-tag-input",
   "version": "1.0.0",
-  "description": "This is a react material-ui input component for entering multiple string values called tags. Lightweight, customizable and easy to use.",
+  "description": "A react material-ui tag input component for entering multiple string values.",
   "main": "dist/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
