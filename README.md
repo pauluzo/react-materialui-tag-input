@@ -7,26 +7,26 @@ A simple Material UI component that allows for multiple inputs as tags. The comp
 Install this package into your react project using npm:
 
 ```
-npm install mui-tag-input
+npm install react-materialui-tag-input
 ```
 
 or using yarn:
 
 ```
-yarn add mui-tag-input
+yarn add react-materialui-tag-input
 ```
 
-You can now use `mui-tag-input` in your project like so:
+You can now use `react-materialui-tag-input` in your project like so:
 
 ```
-import TagInput from 'mui-tag-input'
+import TagInput from 'react-materialui-tag-input'
 ...
 ```
 
 You can also import the type definitions if you're using TypeScript like so:
 
 ```
-import TagInput, { IInputInterface } from 'mui-tag-input'
+import TagInput, { IInputInterface } from 'react-materialui-tag-input'
 ...
 ```
 
@@ -34,7 +34,7 @@ import TagInput, { IInputInterface } from 'mui-tag-input'
 
 ```
 // your-component.js
-import TagInput from 'mui-tag-input'
+import TagInput from 'react-materialui-tag-input'
 
 // create state handler for the tags
 const [inputTags, setInputTags] = useState([])
@@ -51,7 +51,7 @@ Or optionally, create a function to handle updates to the tag list. The function
 
 ```
 // your-component.js
-import TagInput from 'mui-tag-input'
+import TagInput from 'react-materialui-tag-input'
 
 // create state handler for the tags
 const [inputTags, setInputTags] = useState([])
@@ -210,4 +210,4 @@ This prop expects a key-value object containing props that are passed into each 
 ...
 ```
 
-**Kindly raise any issues noticed on the github repo at https://github.com/pauluzo/materialui-multi-input or email me at okaforpaul26@gmail.com**
+**Kindly raise any issues noticed on the github repo at https://github.com/pauluzo/react-materialui-tag-input or email me at okaforpaul26@gmail.com**
