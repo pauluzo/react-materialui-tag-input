@@ -30,6 +30,10 @@ import TagInput, { IInputInterface } from 'react-materialui-tag-input'
 ...
 ```
 
+# Basic Demo
+
+![Alt demo](images/tag-input-img.png)
+
 # Basic Example
 
 ```

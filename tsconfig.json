@@ -22,5 +22,5 @@
     "noUnusedParameters": true
   },
   "include": ["src", "typings.d.ts"],
-  "exclude": ["node_modules", "dist", "rollup.config.js"]
+  "exclude": ["node_modules", "dist", "images", "rollup.config.js"]
 }
